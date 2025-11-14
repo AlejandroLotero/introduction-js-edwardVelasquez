@@ -32,7 +32,7 @@ const reservation2 = {
 
 
     informartion : () => {
-        return (`El cliente ${this.userName} reservó  y la cantidad a pagar es  ${this.totalPay}`);
+        return (`El cliente ${userName} reservó  y la cantidad a pagar es  ${totalPay}`);
         
     }
 }
